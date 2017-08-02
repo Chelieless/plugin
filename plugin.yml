@@ -1,0 +1,15 @@
+name: PluginJoin
+main: razvan.plugin.Main
+version: 0.1
+author: Razvan
+commands: 
+  cmc:
+    description: Duraxel este chiar muist
+    usage: /test
+  kickduraxel:
+    description: K I C K D U R A X E L
+    usage: /kickduraxel
+  admins:
+    description: Show online admins
+    usage: /admins
+
